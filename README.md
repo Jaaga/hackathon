@@ -1,3 +1,8 @@
+[Jaaga Study](http://jaaga.in/study) student's solution to the following chanllenge.
+
+Please do read readme.txt
+
+
 The Challenge - Clean India
 ============================
 
